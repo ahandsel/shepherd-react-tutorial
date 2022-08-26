@@ -17,6 +17,7 @@ Our free, live workshop will walk you through creating a Web Database App, setti
 * [Appendix](#appendix)
   * [What is Shepherd.JS?](#what-is-shepherdjs)
   * [What is Kintone?](#what-is-kintone)
+* [Workshop Steps](#workshop-steps)
 * [Debugging - Let's Fix Those Problems 💪](#debugging---lets-fix-those-problems-)
   * [`npm install` command is not working](#npm-install-command-is-not-working)
 
@@ -162,6 +163,17 @@ Kintone is a no-code/low-code cloud platform for teams to quickly & easily share
 You can add JavaScript, CSS, &/or HTML to enhance the frontend UI/UX of a Kintone App. This can include features such as maps, buttons, and color-coding.
 
 Read up on how to customize and develop on the Kintone platform at [kintone.dev](https://kintone.dev/)
+
+---
+
+## Workshop Steps
+
+Check out [docs/workshop-steps.md](docs/workshop-steps.md) for the steps to complete this codebase!
+
+The following files need to be completed to make this project work:
+* [ ] [.env](.env)
+* [ ] [frontend/src/App.js](frontend/src/App.js)
+* [ ] [frontend/src/content.js](frontend/src/content.js)
 
 ---
 
